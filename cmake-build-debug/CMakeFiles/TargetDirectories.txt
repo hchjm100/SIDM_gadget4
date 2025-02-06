@@ -1,0 +1,3 @@
+/Users/sanghaoyu/CLionProjects/SIDM_gadget4/cmake-build-debug/CMakeFiles/SIDM_gadget4.dir
+/Users/sanghaoyu/CLionProjects/SIDM_gadget4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sanghaoyu/CLionProjects/SIDM_gadget4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
